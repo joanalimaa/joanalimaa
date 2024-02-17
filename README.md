@@ -3,8 +3,9 @@
 ### 🐞 Hi, I'm Joana 
 ------------------------------
 - ⚙️   I'm a Mechanical Engineering Student @ UFPE, Brazil
-- 🍎  I'm also a student @ Apple Developer Academy UFPE
 - 👩🏼‍💻  I'm currently leaning Swift using SwiftUI and UIKit
+- 🐍  I'm currently learning Python more focused on Data Science
+- 🍎  I'm also an alumni @ Apple Developer Academy UFPE
 
 ### 📈 My stats 
 -------------------
