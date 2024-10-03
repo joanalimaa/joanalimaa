@@ -10,8 +10,7 @@
 ### 📈 My stats 
 -------------------
 ![Joana's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanalimaa&show_icons=true&theme=dracula)
-<!---[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joanalimaa&layout=compact)](https://github.com//github-readme-stats)--->
-![Joana's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanalimaa&layout=compact&theme=dracula)
+<!---[![Joana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joanalimaa&layout=compact)](https://github.com//github-readme-stats)--->
 
 ### 🔎 Find me
 ----------------------
